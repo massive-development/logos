@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.55971 23.94481">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.82664" y1="18.32873" x2="1.90852" y2="2.13913" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ad4e9d"/>
+      <stop offset=".04915" stop-color="#a14e9d"/>
+      <stop offset=".13562" stop-color="#844f9f"/>
+      <stop offset=".24843" stop-color="#5551a2"/>
+      <stop offset=".30447" stop-color="#3b52a4"/>
+      <stop offset=".36619" stop-color="#446aad"/>
+      <stop offset=".4959" stop-color="#5ba7c4"/>
+      <stop offset=".56145" stop-color="#68c9d1"/>
+      <stop offset=".71942" stop-color="#66c4a1"/>
+      <stop offset="1" stop-color="#65bc46"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="3.38756" y1="6.26947" x2="1.17382" y2="7.84025" gradientUnits="userSpaceOnUse">
+      <stop offset=".28736" stop-color="#104146"/>
+      <stop offset=".45182" stop-color="#144745" stop-opacity=".94643"/>
+      <stop offset=".60704" stop-color="#235b45" stop-opacity=".78366"/>
+      <stop offset=".75858" stop-color="#3b7d45" stop-opacity=".5113"/>
+      <stop offset=".90697" stop-color="#5cac45" stop-opacity=".13156"/>
+      <stop offset=".95001" stop-color="#68bd45" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="10.34929" y1="16.47394" x2="13.92629" y2="4.46295" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b57a6"/>
+      <stop offset=".14147" stop-color="#559ac2"/>
+      <stop offset=".22793" stop-color="#69cad4"/>
+      <stop offset=".41855" stop-color="#68c59d"/>
+      <stop offset=".60848" stop-color="#68c06d"/>
+      <stop offset=".75305" stop-color="#68be50"/>
+      <stop offset=".8352" stop-color="#68bd45"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="12.76081" y1="5.54788" x2="16.94631" y2="5.54788" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#235918" stop-opacity="0"/>
+      <stop offset=".00477" stop-color="#225717" stop-opacity=".02796"/>
+      <stop offset=".13699" stop-color="#0e3109" stop-opacity=".58808"/>
+      <stop offset=".32282" stop-color="#031b02" stop-opacity=".91078"/>
+      <stop offset=".83931" stop-color="#001500"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="12.73548" y1="12.06208" x2="9.91026" y2="15.28836" gradientUnits="userSpaceOnUse">
+      <stop offset=".3298" stop-color="#000" stop-opacity="0"/>
+      <stop offset=".72155" stop-color="#09102c" stop-opacity=".56521"/>
+      <stop offset="1" stop-color="#111d4f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="17.18852" y1="22.75896" x2="15.79045" y2="18.06551" gradientUnits="userSpaceOnUse">
+      <stop offset=".40646" stop-color="#68bd45"/>
+      <stop offset=".51976" stop-color="#4d9233"/>
+      <stop offset=".681" stop-color="#2c5d1d"/>
+      <stop offset=".82063" stop-color="#14350d"/>
+      <stop offset=".93158" stop-color="#051d03"/>
+      <stop offset="1" stop-color="#001500"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="16.59432" y1="17.90026" x2="16.45828" y2="1.09635" gradientUnits="userSpaceOnUse">
+      <stop offset=".25458" stop-color="#70cbd3"/>
+      <stop offset=".63537" stop-color="#68bd45"/>
+      <stop offset=".68677" stop-color="#74c13f"/>
+      <stop offset=".78089" stop-color="#95cb30"/>
+      <stop offset=".90615" stop-color="#cadc18"/>
+      <stop offset="1" stop-color="#f7eb04"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="5.52066" y1="18.77978" x2="5.55732" y2="2.10369" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c57a6"/>
+      <stop offset=".07135" stop-color="#446bac"/>
+      <stop offset=".32258" stop-color="#60aec1"/>
+      <stop offset=".44042" stop-color="#6bc9ca"/>
+      <stop offset=".57858" stop-color="#6ac8c7"/>
+      <stop offset=".66244" stop-color="#6ac7bf"/>
+      <stop offset=".73181" stop-color="#6ac6b0"/>
+      <stop offset=".79331" stop-color="#69c49c"/>
+      <stop offset=".84956" stop-color="#68c181"/>
+      <stop offset=".90126" stop-color="#67be61"/>
+      <stop offset=".93832" stop-color="#66bc46"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="-3.52151" y1="5.13244" x2="7.79695" y2="6.8507" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38409a"/>
+      <stop offset=".08688" stop-color="#4463a8"/>
+      <stop offset=".19473" stop-color="#5187b7"/>
+      <stop offset=".29535" stop-color="#5aa2c2"/>
+      <stop offset=".38492" stop-color="#60b2c8"/>
+      <stop offset=".45437" stop-color="#62b8cb"/>
+      <stop offset=".54325" stop-color="#62b8bc"/>
+      <stop offset=".71417" stop-color="#64ba94"/>
+      <stop offset=".9478" stop-color="#66bc56"/>
+      <stop offset="1" stop-color="#67bd47"/>
+    </linearGradient>
+  </defs>
+  <g id="Solid_Full_Color" data-name="Solid Full Color">
+    <g id="_24" data-name="24">
+      <polygon class="cls-9" points="0 4.69162 .01177 19.55862 3.72642 17.50271 3.73086 8.18457 0 4.69162"/>
+      <g>
+        <polygon class="cls-1" points="0 4.69162 3.72999 10.00802 3.70364 4.69162 0 4.69162"/>
+        <polygon class="cls-3" points="11.60765 17.38699 16.94761 4.19625 14.3283 0 7.13547 17.38699 11.60765 17.38699"/>
+        <polygon class="cls-2" points="14.15451 11.09575 12.76081 3.78904 14.3283 0 16.94631 4.34829 14.15451 11.09575"/>
+        <polygon class="cls-4" points="11.60765 17.38699 9.4619 11.76339 7.13547 17.25551 11.60765 17.38699"/>
+      </g>
+      <g>
+        <polygon class="cls-8" points="14.60437 10.56622 14.68846 21.1405 19.55971 23.94481 17.00642 17.25105 14.60437 10.56622"/>
+        <polygon class="cls-6" points="14.3283 0 14.68846 21.1405 18.60683 17.33847 18.60683 4.48694 14.3283 0"/>
+      </g>
+      <g>
+        <polygon class="cls-5" points="0 4.69162 3.6647 8.15294 6.57658 17.39625 11.07535 17.38714 6.28513 4.69162 0 4.69162"/>
+        <polygon class="cls-7" points="6.28513 4.69162 3.6647 8.15294 0 4.69162 6.28513 4.69162"/>
+      </g>
+    </g>
+  </g>
+</svg>
